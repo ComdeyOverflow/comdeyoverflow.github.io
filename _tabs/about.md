@@ -13,6 +13,7 @@ ______________
 
 ## About me
 > - 15 years old, High_School-Student
+> - Love anime and family movies
 > - I enjoy spending my free time on learning about security by playing CTFs and googling, ... 
 
 ______________
