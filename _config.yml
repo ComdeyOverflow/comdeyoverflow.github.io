@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Japan
+timezone: Asia/Rangoon
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: ComdeyOverflow                          # the main title
 
-tagline: CTFer, Student, Alone   # it will display as the sub-title
+tagline: CTFer, High_School-Student, Alone   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  ComdeyOverflow blog, Like spending time on researching and watching anime
