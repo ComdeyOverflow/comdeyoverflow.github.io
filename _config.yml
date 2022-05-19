@@ -23,7 +23,7 @@ timezone: Asia/Japan
 
 title: ComdeyOverflow                          # the main title
 
-tagline: CTFer, High_School-Student, Alone   # it will display as the sub-title
+tagline: CTFer, Student, Alone   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  ComdeyOverflow blog, Like spending time on researching and watching anime
